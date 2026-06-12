@@ -1,6 +1,6 @@
 # Project Euler Problem 202 Java Solution
 <p><b>WARNING: SPOILERS FOR THE SOLUTION</b> <br> I had a lot of fun on this problem and would recommend checking it out before reading this, if you're interested.</p>
-<p>This Repository is just 1 in-depth solution, for more solutions, check out <a href="https://github.com/CadenConde/Completed-Eulers">this repository.</a></p>
+<p>This repository is just one in-depth solution, for more solutions, check out <a href="https://github.com/CadenConde/Completed-Eulers">this repository</a>.</p>
 
 <img src="media/LaserSim.gif" width="500" />
   
